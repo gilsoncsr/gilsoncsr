@@ -33,7 +33,7 @@ I have a solid technical foundation in the following technologies:
 If you would like to discuss collaboration opportunities or learn more about my projects, please contact me:
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/gilson-cesar-879479332)
-- **Email**: [My Email](gilsoncesar.tech@gmail.com)
+- **Email**: gilsoncesar.tech@gmail.com
 
 ---
 
