@@ -16,7 +16,7 @@ I have a solid technical foundation in the following technologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@ I have a solid technical foundation in the following technologies:
 - **Backend Development**: Creation of robust and scalable systems using **Node.js**, with a focus on efficiency and security.
 - **Frontend Development**: Implementation of user interfaces using **React** and **Tailwind CSS**, ensuring a smooth and responsive experience.
 - **API Integration**: Development and consumption of RESTful APIs, integrating different systems in an agile and efficient manner.
-- **Databases**: Experience with **relational** databases like **MySQL**, optimizing queries and data modeling.
+- **Databases**: Experience with **relational** databases like **PostgreSQL**, optimizing queries and data modeling.
 
 ## Contact
 If you would like to discuss collaboration opportunities or learn more about my projects, please contact me:
