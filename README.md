@@ -24,15 +24,15 @@ I have a solid technical foundation in the following technologies:
 
 ## Main Areas of Expertise
 - **Systems Analysis**: I conduct requirements gathering and functional analysis, seeking to align the solutions developed with business needs.
-- **Backend Development**: Creation of robust and scalable systems using **Node.js**, with a focus on efficiency and security.
-- **Frontend Development**: Implementation of user interfaces using **React** and **Tailwind CSS**, ensuring a smooth and responsive experience.
+- **Backend Development**: Creation of robust and scalable systems, with a focus on efficiency and security.
+- **Frontend Development**: Implementation of user interfaces, ensuring a smooth and responsive experience.
 - **API Integration**: Development and consumption of RESTful APIs, integrating different systems in an agile and efficient manner.
-- **Databases**: Experience with **relational** databases like **PostgreSQL**, optimizing queries and data modeling.
+- **Databases**: Experience with **relational** databases, optimizing queries and data modeling.
 
 ## Contact
 If you would like to discuss collaboration opportunities or learn more about my projects, please contact me:
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/gilson-cesar-879479332)
+- **LinkedIn**: www.linkedin.com/in/gilsoncsr
 - **Email**: gilsoncesar.tech@gmail.com
 
 ---
