@@ -37,7 +37,7 @@ I have a solid technical foundation in the following technologies:
 If you would like to discuss collaboration opportunities or learn more about my projects, please contact me:
 
 - **LinkedIn**: www.linkedin.com/in/gilsoncsr
-- **Portfolio**: www.gilsoncsr.vercel.app
+- **Portfolio**: 
 - **Email**: gilsoncesar.tech@gmail.com
 
 ---
