@@ -1,5 +1,5 @@
 ## About Me
-I am a **Systems Analyst and Developer**, with experience in analyzing, designing, and implementing efficient and scalable 
+I am a **Software Engineer**, with experience in analyzing, designing, and implementing efficient and scalable 
 technological solutions. My work focuses on deeply understanding business needs and translating them into robust solutions 
 by applying best practices in software development. I work with modern technologies, always seeking to optimize processes 
 and improve the quality of the applications developed.
@@ -23,16 +23,21 @@ I have a solid technical foundation in the following technologies:
 </div>
 
 ## Main Areas of Expertise
-- **Systems Analysis**: I conduct requirements gathering and functional analysis, seeking to align the solutions developed with business needs.
-- **Backend Development**: Creation of robust and scalable systems, with a focus on efficiency and security.
-- **Frontend Development**: Implementation of user interfaces, ensuring a smooth and responsive experience.
-- **API Integration**: Development and consumption of RESTful APIs, integrating different systems in an agile and efficient manner.
-- **Databases**: Experience with **relational** databases, optimizing queries and data modeling.
+- **Systems Analysis**: I conduct requirements gathering and functional analysis, aligning the developed solutions with business needs.
+- **Backend Development**: Creation of robust and scalable systems, focusing on efficiency and security.
+- **Frontend Development**: Implementation of user interfaces, ensuring a fluid and responsive experience.
+- **API Integration**: Development and consumption of RESTful APIs, integrating different systems quickly and efficiently.
+- **Databases**: Experience with **relational** and **non-relational** databases, optimizing queries, modeling, and performance.
+- **Mobile Development**: Creation of mobile applications for **Android** and **iOS**, using cross-platform frameworks and ensuring good performance and UX.
+- **Artificial Intelligence and Machine Learning**: Development and integration of predictive and classification models to solve real business problems. - RAG (Retrieval-Augmented Generation): Implementation of pipelines that combine LLMs with information retrieval for more accurate and contextual responses.
+- **Model Fine-Tuning**: Fine-tuning language models and neural networks for specific applications, improving performance and relevance.
+- **AI Agents**: Development of AI-based autonomous agents for complex tasks, automation, and decision-making.
 
 ## Contact
 If you would like to discuss collaboration opportunities or learn more about my projects, please contact me:
 
 - **LinkedIn**: www.linkedin.com/in/gilsoncsr
+- **Portfolio**: www.gilsoncsr.vercel.app
 - **Email**: gilsoncesar.tech@gmail.com
 
 ---
